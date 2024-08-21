@@ -9,20 +9,6 @@ client_scripts{
     "client/main.lua"
 }
 
-server_scripts{
-    "server/utils.lua",
-    "server/main.lua"
-}
-
 shared_scripts{
     "config.lua",
-    "@ox_lib/init.lua"
-}
-
-ui_page"html/index.html"
-
-files{
-    "html/script.js",
-    "html/style.css",
-    "html/index.html"
 }
